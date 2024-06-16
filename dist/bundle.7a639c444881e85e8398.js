@@ -297,7 +297,7 @@ eval("/** @typedef {\"info\" | \"warning\" | \"error\"} LogLevel */\n\n/** @type
 /***/ (() => {
 
 "use strict";
-eval("\nvar n = 1;\n\n\n//# sourceURL=webpack://advanced-ts/./src/index.ts?");
+eval("\nvar n = 1;\nvar heh = 'heh';\n\n\n//# sourceURL=webpack://advanced-ts/./src/index.ts?");
 
 /***/ })
 
@@ -380,7 +380,7 @@ eval("\nvar n = 1;\n\n\n//# sourceURL=webpack://advanced-ts/./src/index.ts?");
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	(() => {
-/******/ 		__webpack_require__.h = () => ("5a8f59a1e3b981c2714d")
+/******/ 		__webpack_require__.h = () => ("f526f5e95578da410105")
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */

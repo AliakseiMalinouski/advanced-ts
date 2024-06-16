@@ -1,1 +1,2 @@
-const n: number = 1
+const n: number = 1;
+const heh = 'heh'
